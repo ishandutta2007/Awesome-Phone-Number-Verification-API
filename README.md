@@ -1,5 +1,3 @@
-# Awesome-Phone-Number-Verification-Api
-
 # Awesome-Phone-Number-Verification-API
 
 ## Top Phone Number Verification API Ecosystem
