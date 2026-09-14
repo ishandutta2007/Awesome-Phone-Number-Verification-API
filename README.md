@@ -105,7 +105,7 @@ We welcome community contributions! Please follow these guidelines:
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` following the tabular or starred list format.
-3. 🔗 Ensure all SaaS pricing and GitHub Stars_Badges link to valid pages.
+3. 🔗 Ensure all SaaS pricing and GitHub_Stars_Badges link to valid pages.
 4. 🚀 Submit a Pull Request (PR) with a brief summary of additions.
 
 ---
